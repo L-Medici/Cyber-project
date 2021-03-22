@@ -4,6 +4,6 @@ Relazione
 
 Project_cyber3.rar = Front hand di utenti e immagini con mongodb 
 
-(App ANGELO?) = Back hand che per migrazione contratto su block chain
+galma.rar = Back hand per migrazione contratto su block chain di ganache
 
-README dei due codici dentro i rispettivi zip/rar
+README dei due codici dentro i rispettivi file .rar
